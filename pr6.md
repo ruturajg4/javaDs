@@ -42,3 +42,8 @@ System.out.println("Both the values are same");
 }
 }
 }
+
+javac -d . Compare.java
+java MyPackage.Compare
+javac Demo.java
+java Demo
