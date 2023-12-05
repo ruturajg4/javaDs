@@ -1,4 +1,7 @@
-//Programs on Classes: String and Math.
+//Write a program to demonstrate following Function concepts
+
+i) Function overloading
+ii) Constructors
 
 //i)Program on Function Overloading
 public class Sum {
